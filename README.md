@@ -1,7 +1,3 @@
-<style type="text/css">
-div {display: flex; justify-content: space-between;}
-</style>
-
 ### Hi there, I'm Paweł from Kraków 🤗
 
 ## Frontend/Javascript Developer
@@ -10,8 +6,14 @@ div {display: flex; justify-content: space-between;}
   <br/>
 
   ## [Restaurant Full E-Commerce Website](https://torandoapp.herokuapp.com/)
-    
+  
+  
 
+  
+    <img align="right" alt="JavaScript" width="300px" src="https://user-images.githubusercontent.com/73038209/134639768-5e950ec3-4cd4-419b-bf47-e18cc1b89af8.jpg"/>
+    
+    <div align="left">
+  
   - Google Api(maps, geometry, places, autocomplete) for map ordering restriction to around 2.5km from restaurant
   - JWT Web token for login/register
   - Redux for state managment
@@ -24,25 +26,37 @@ div {display: flex; justify-content: space-between;}
   - Admin Panel
   - Website at [torandoapp.herokuapp.com](https://torandoapp.herokuapp.com/) 📟
   - Code in [Github](https://github.com/rosiu98/Restaurant-Website) 🈵
+  
+  </div>
 
 <br/>
 <br/>
 
-- Newest website that i created and designed <img align="leftgit " alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+- Newest website that i created and designed <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
   ## [Landing Page for Driving Instructor ](https://jablonski-naukajazdy.pl/)
+  
+  <img align="right" alt="JavaScript" width="300px" src="https://user-images.githubusercontent.com/73038209/134641453-cc27ff83-473a-47f0-a578-b311eb368105.jpg" />
+  
+  <div align='left'>
 
   - SCSS for styling
   - Pure Vanilla JS
   - SwiperJs
   - Google Maps
-    <br/>
-    Website at [jablonski-naukajazdy.pl](https://jablonski-naukajazdy.pl/) 📟
-    <br/>
-    Code in [Github](https://github.com/rosiu98/JablonskiLandingPage) 🈵
+  - Website at [jablonski-naukajazdy.pl](https://jablonski-naukajazdy.pl/) 📟
+  - Code in [Github](https://github.com/rosiu98/JablonskiLandingPage) 🈵
+  
+  </div>
+  
+
+
+<br/>
+<br/>
+
 
 ### Languages and Tools:
 
