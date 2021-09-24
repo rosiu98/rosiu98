@@ -32,7 +32,7 @@
 
   ## [Landing Page for Driving Instructor ](https://jablonski-naukajazdy.pl/)
 
-    <img align="left" alt="JavaScript" width="300px" src="https://user-images.githubusercontent.com/73038209/134629894-ed01347f-b1f8-4958-8074-3c28eb042e9a.png" />
+    <img align="right" alt="JavaScript" width="15%" src="https://user-images.githubusercontent.com/73038209/134629894-ed01347f-b1f8-4958-8074-3c28eb042e9a.png" />
 
   - SCSS for styling
   - Pure Vanilla JS
