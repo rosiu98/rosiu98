@@ -10,8 +10,7 @@ div {display: flex; justify-content: space-between;}
   <br/>
 
   ## [Restaurant Full E-Commerce Website](https://torandoapp.herokuapp.com/)
-    <div>
-    <img alt="JavaScript" width="15%" src="https://user-images.githubusercontent.com/73038209/134632459-cd0728ee-e919-4ced-8b3a-286a399b9381.png" />
+    
 
   - Google Api(maps, geometry, places, autocomplete) for map ordering restriction to around 2.5km from restaurant
   - JWT Web token for login/register
@@ -25,8 +24,6 @@ div {display: flex; justify-content: space-between;}
   - Admin Panel
   - Website at [torandoapp.herokuapp.com](https://torandoapp.herokuapp.com/) 📟
   - Code in [Github](https://github.com/rosiu98/Restaurant-Website) 🈵
-  
-  </div>
 
 <br/>
 <br/>
