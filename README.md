@@ -1,3 +1,7 @@
+<style type="text/css">
+div {display: flex; justify-content: space-between;}
+</style>
+
 ### Hi there, I'm Paweł from Kraków 🤗
 
 ## Frontend/Javascript Developer
@@ -6,8 +10,8 @@
   <br/>
 
   ## [Restaurant Full E-Commerce Website](https://torandoapp.herokuapp.com/)
-    <div style="display: flex justify-content: space-between">
-    <img align="right" alt="JavaScript" width="15%" src="https://user-images.githubusercontent.com/73038209/134632459-cd0728ee-e919-4ced-8b3a-286a399b9381.png" />
+    <div>
+    <img alt="JavaScript" width="15%" src="https://user-images.githubusercontent.com/73038209/134632459-cd0728ee-e919-4ced-8b3a-286a399b9381.png" />
 
   - Google Api(maps, geometry, places, autocomplete) for map ordering restriction to around 2.5km from restaurant
   - JWT Web token for login/register
@@ -19,10 +23,8 @@
   - Booking Table
   - Wysiwyg text editor
   - Admin Panel
-    <br/>
-    Website at [torandoapp.herokuapp.com](https://torandoapp.herokuapp.com/) 📟
-    <br/>
-    Code in [Github](https://github.com/rosiu98/Restaurant-Website) 🈵
+  - Website at [torandoapp.herokuapp.com](https://torandoapp.herokuapp.com/) 📟
+  - Code in [Github](https://github.com/rosiu98/Restaurant-Website) 🈵
   
   </div>
 
@@ -35,8 +37,6 @@
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
   ## [Landing Page for Driving Instructor ](https://jablonski-naukajazdy.pl/)
-
-    <img align="right" alt="JavaScript" width="15%" src="https://user-images.githubusercontent.com/73038209/134629894-ed01347f-b1f8-4958-8074-3c28eb042e9a.png" />
 
   - SCSS for styling
   - Pure Vanilla JS
