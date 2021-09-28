@@ -41,7 +41,8 @@
 
   ## [Landing Page for Driving Instructor ](https://jablonski-naukajazdy.pl/)
   
-  <img align="right" alt="JavaScript" width="300px" src="https://user-images.githubusercontent.com/73038209/134641453-cc27ff83-473a-47f0-a578-b311eb368105.jpg" />
+  <img align="right" alt="JavaScript" width="300px" src="https://user-images.githubusercontent.com/73038209/135140737-c8f598f5-58ad-401b-a2d0-da6ac150d7e4.png" />
+ 
   
   <div align='left'>
 
